@@ -1,4 +1,5 @@
-lista_sin_orden =  ['a', 'z', 'd', 'b', 'o', 'n']
+# lista_sin_orden =  ['a', 'z', 'd', 'b', 'o', 'n']
+lista_sin_orden =  ['arbol', 'zulu', 'dado', 'burro', 'ornitorrinco', 'nido', 'balon']
 
 lista = []
 

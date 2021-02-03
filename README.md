@@ -1,21 +1,3 @@
-# Ejercicio 1
-
-Hacer una animación.
-
-Limpiar pantalla:
-> puts `clear`
-
-Esperar tiempo en segundos
-
-> sleep(0.2)
-
-Secuencia de caracteres
-
-|
-/
--
-\
-
 # Ejercicio 2
 
 Hacer una funcion que reciba un número "n", y sume todos los números de 0 al "n"

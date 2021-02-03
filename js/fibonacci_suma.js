@@ -1,4 +1,5 @@
 function fibonacci_suma(n) {
+  debugger;
   let sum = 0;
   let n_2 = 0;
   let n_1 = 1;
